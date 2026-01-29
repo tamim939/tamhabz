@@ -1,0 +1,7 @@
+{
+  "name": "Ramadan Mubarak - Interactive Calendar",
+  "description": "A comprehensive Ramadan calendar application with Seheri & Iftar timings, daily Duas, and an AI-powered Ramadan assistant. Features real-time countdowns and location-aware prayer times.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
